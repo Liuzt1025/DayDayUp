@@ -18,5 +18,5 @@ https://ID:123456@github.com
 
 
 
-https://github.com/rourou1025/myImages/blob/main/imgsrc%3Dhttp___img3.doubanio.com_view_group_topic_l_public_p151946033.jpg%26refer%3Dhttp___img3.doubanio%20(1).jfif
+https://raw.githubusercontent.com/rourou1025/myImages/main/imgsrc%3Dhttp___img3.doubanio.com_view_group_topic_l_public_p151946033.jpg%26refer%3Dhttp___img3.doubanio%20(1).jfif
 
