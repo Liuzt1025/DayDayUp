@@ -17,5 +17,3 @@ https://ID:123456@github.com
 ```
 
 
-
-![image-20210511215845917](images/image-20210511215845917.png)
